@@ -1,5 +1,7 @@
 # Carnegie Mellon Hackathon Prep
 
+[About the Hackathon](https://guides.library.cmu.edu/hackathon)
+
 ## Literature Review
 
 ### Example
