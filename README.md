@@ -1,10 +1,14 @@
 # Carnegie Mellon Hackathon Prep
 
-[About the Hackathon](https://guides.library.cmu.edu/hackathon)
+## Resources
+
+- [About the Hackathon](https://guides.library.cmu.edu/hackathon)
+- [NVIDIA FLARE](https://nvidia.github.io/NVFlare/)
 
 ## Projects
 
-- [Cancer Subtyping](./Cancer_Subtyping/README.md) - SUMMARY
+- [Cancer_Subtyping](./Cancer_Subtyping/README.md) - SUMMARY
+- [Ontology_Merging](./Ontology_Merging/README.md) - SUMMARY
 
 ## Literature Review
 
