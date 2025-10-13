@@ -1,4 +1,4 @@
-# Carnegie Mellon Hackathon Prep
+# Carnegie Mellon x NVIDIA Hackathon Preparation
 
 ## Resources
 
