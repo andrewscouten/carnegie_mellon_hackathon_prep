@@ -19,7 +19,7 @@
 
   - **Summary:** ResNet (Residual Network) is a deep convolutional neural network architecture designed to overcome the degradation problem that occurs when neural networks become very deep. In traditional CNNs, as more layers are added, training accuracy often saturates and then degrades due to vanishing/exploding gradients. ResNet solved this by introducing residual learning, which allows layers to learn modifications (residuals) to the input rather than entire transformations.
 
-### Cancer Subtyping
-(Will move to project folder once lit review is finished)
+### General
 
-Looking for recent (2025) papers with cancer subtyping, open source, deep learning, federated learning...
+#### [NVIDIA FLARE: Federated Learning from Simulation to Real-World](https://arxiv.org/abs/2210.13291)
+- **Summary:** 
