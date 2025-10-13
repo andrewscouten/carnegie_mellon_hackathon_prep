@@ -12,3 +12,7 @@
 ## Cancer Subtyping
 
 Looking for recent (2025) papers with cancer subtyping, open source, deep learning, federated learning...
+
+### 1. [A Review of Advanced Deep Learning Methods of Multi-Target Segmentation for Breast Cancer WSIs](https://ieeexplore.ieee.org/stamp/stamp.jsp?arnumber=10979932)
+
+- **Summary:** TODO: Finish! But for now... It has a really good breakdown of different multi-modal breast cancer datasets. Might be good for federated learning, but need to make sure subtype labels exist first (if not, clustering?)
