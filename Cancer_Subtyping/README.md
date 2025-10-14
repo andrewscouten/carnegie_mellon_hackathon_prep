@@ -66,6 +66,7 @@ Looking for recent (2025) papers with cancer subtyping, open source, deep learni
 - **Topics:** Survey, Cancer (Skin), Federated Learning (FL)
 - **Summary:** FL strategy and model that is both multi-task and accounts for missing modalities during prediction. Detailed about FL strategy and related works (including datasets, task, and input types of those works)
 
+## Datasets for Colorectal, Breast, and Lung Cancer 
 
 
 
