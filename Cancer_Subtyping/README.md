@@ -15,7 +15,7 @@ Looking for recent (2025) papers with cancer subtyping, open source, deep learni
 
 ### [1] [A Review of Advanced Deep Learning Methods of Multi-Target Segmentation for Breast Cancer WSIs](https://ieeexplore.ieee.org/stamp/stamp.jsp?arnumber=10979932)
 
-- **Topics:** Breast Cancer, Segmentation, Multi-Target
+- **Topics:** Cancer (Breast), Segmentation, Multi-Target
 - **Summary:** Offers a survey of segmentation methods and datasets for breast cancer, breaking down each dataset and its use. A great resource for similar tasks to help us pick and decipher various known datasets.
 
 ### [2] [Subtype-GAN: a deep learning approach for integrative cancer subtyping of multi-omics data](https://academic.oup.com/bioinformatics/article/37/16/2231/6143031)
@@ -44,8 +44,8 @@ Looking for recent (2025) papers with cancer subtyping, open source, deep learni
 
 ### [7] [Advancing breast, lung and prostate cancer research with federated learning. A systematic review](https://www.nature.com/articles/s41746-025-01591-5)
 
-- **Topics:**
-- **Summary:**
+- **Topics:** Survey, Cancer (Breast, Lung, Prostate), Federated Learning (FL)
+- **Summary:** Breaks down common task workflows (classification, segmentation, detection, regression) from a survey of 25 papers from 2020 to 2023, with a heavy focus on FL usage (e.g. data privacy, domain adaptation, model improvement / generalisability). Has Sankey diagrams that shows typical workflows for specific inputs (really cool!).
 
 ### [8] [Collaborative assessment of the risk of postoperative progression in early-stage non-small cell lung cancer: a robust federated learning model](https://cancerimagingjournal.biomedcentral.com/articles/10.1186/s40644-025-00911-y)
 
@@ -56,3 +56,4 @@ Looking for recent (2025) papers with cancer subtyping, open source, deep learni
 
 - **Topics:**
 - **Summary:** 
+
