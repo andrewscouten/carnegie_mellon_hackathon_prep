@@ -31,7 +31,7 @@ Looking for recent (2025) papers with cancer subtyping, open source, deep learni
   - I also had a thought that although we may not use Subtype-GAN maybe we can steal the ideas and apply it to Andrew's knowledge graph.
   - - Add an unsupervised layer (AGAIN DO NOT KNOW ANYTHING ABOUT UNSUPERVISED LEARNING BUT WILLING TO LEARN)... Again do not know if necessary. 
 
-#### [3] [DeePathNet: A Transformer-Based Deep Learning Model Integrating Multiomic Data with Cancer Pathways]([https://pubmed.ncbi.nlm.nih.gov/39530738/](https://aacrjournals.org/cancerrescommun/article/4/12/3151/750577/DeePathNet-A-Transformer-Based-Deep-Learning-Model))
+#### [3] [DeePathNet: A Transformer-Based Deep Learning Model Integrating Multiomic Data with Cancer Pathways](https://pubmed.ncbi.nlm.nih.gov/39530738/](https://aacrjournals.org/cancerrescommun/article/4/12/3151/750577/DeePathNet-A-Transformer-Based-Deep-Learning-Model)
 - **Topics**
 - **Summary**
   - Datasets used: ProCan-DepMapSanger, Cancer Cell Line Encyclopedia, TCGA
@@ -65,6 +65,7 @@ Looking for recent (2025) papers with cancer subtyping, open source, deep learni
 
 - **Topics:** Survey, Cancer (Skin), Federated Learning (FL)
 - **Summary:** FL strategy and model that is both multi-task and accounts for missing modalities during prediction. Detailed about FL strategy and related works (including datasets, task, and input types of those works)
+
 
 
 
