@@ -56,8 +56,9 @@ Looking for recent (2025) papers with cancer subtyping, open source, deep learni
 
 ### [9] [A Personalized Multimodal Federated Learning Framework for Skin Cancer Diagnosis](https://www.mdpi.com/2079-9292/14/14/2880)
 
-- **Topics:**
-- **Summary:** 
+- **Topics:** Survey, Cancer (Skin), Federated Learning (FL)
+- **Summary:** FL strategy and model that is both multi-task and accounts for missing modalities during prediction. Detailed about FL strategy and related works (including datasets, task, and input types of those works)
+
 
 
 
