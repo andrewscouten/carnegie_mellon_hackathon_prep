@@ -23,3 +23,7 @@ Looking for recent (2025) papers with cancer subtyping, open source, deep learni
 ### 3. [DeePathNet: A Transformer-Based Deep Learning Model Integrating Multiomic Data with Cancer Pathways](https://pubmed.ncbi.nlm.nih.gov/39530738/)
 - Tera is on fire...
 
+### 4. [Biological Knowledge Graph-Enhanced Cancer State Prediction Network with Adjustable Connections](https://academic.oup.com/bioinformatics/article/39/9/btad570/7273783)
+- Sooo I am sorta excited about this one 
+
+
