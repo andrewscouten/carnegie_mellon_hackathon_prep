@@ -1,0 +1,229 @@
+{
+  "main": {
+    "id": "98afab882d81b125",
+    "type": "split",
+    "children": [
+      {
+        "id": "a1a8781754276e75",
+        "type": "split",
+        "children": [
+          {
+            "id": "738fefd25ec80826",
+            "type": "tabs",
+            "children": [
+              {
+                "id": "cb6a58d9feb6f0b6",
+                "type": "leaf",
+                "state": {
+                  "type": "markdown",
+                  "state": {
+                    "file": "(2) Paper Notes/NVIDIA FLARE - Federated Learning from Simulation to Real-World.md",
+                    "mode": "source",
+                    "source": false
+                  },
+                  "icon": "lucide-file",
+                  "title": "NVIDIA FLARE - Federated Learning from Simulation to Real-World"
+                }
+              }
+            ]
+          },
+          {
+            "id": "acf5227c3116ea65",
+            "type": "tabs",
+            "children": [
+              {
+                "id": "d321c0ed405d5275",
+                "type": "leaf",
+                "state": {
+                  "type": "markdown",
+                  "state": {
+                    "file": "(1) Concepts/NVIDIA FLARE.md",
+                    "mode": "source",
+                    "source": false
+                  },
+                  "icon": "lucide-file",
+                  "title": "NVIDIA FLARE"
+                }
+              },
+              {
+                "id": "562b1e8400d7794e",
+                "type": "leaf",
+                "state": {
+                  "type": "markdown",
+                  "state": {
+                    "file": "(1) Concepts/Federated Learning.md",
+                    "mode": "source",
+                    "source": false
+                  },
+                  "icon": "lucide-file",
+                  "title": "Federated Learning"
+                }
+              }
+            ]
+          }
+        ],
+        "direction": "horizontal"
+      }
+    ],
+    "direction": "vertical"
+  },
+  "left": {
+    "id": "b0ed418964843503",
+    "type": "split",
+    "children": [
+      {
+        "id": "981071e96aec51f6",
+        "type": "tabs",
+        "children": [
+          {
+            "id": "82bc09fc8a79fff5",
+            "type": "leaf",
+            "state": {
+              "type": "file-explorer",
+              "state": {
+                "sortOrder": "alphabetical",
+                "autoReveal": false
+              },
+              "icon": "lucide-folder-closed",
+              "title": "Files"
+            }
+          },
+          {
+            "id": "343743d2a18a7aed",
+            "type": "leaf",
+            "state": {
+              "type": "search",
+              "state": {
+                "query": "",
+                "matchingCase": false,
+                "explainSearch": false,
+                "collapseAll": false,
+                "extraContext": false,
+                "sortOrder": "alphabetical"
+              },
+              "icon": "lucide-search",
+              "title": "Search"
+            }
+          },
+          {
+            "id": "371419ed6d41b4fd",
+            "type": "leaf",
+            "state": {
+              "type": "bookmarks",
+              "state": {},
+              "icon": "lucide-bookmark",
+              "title": "Bookmarks"
+            }
+          }
+        ]
+      }
+    ],
+    "direction": "horizontal",
+    "width": 300,
+    "collapsed": true
+  },
+  "right": {
+    "id": "6822da2488cd6629",
+    "type": "split",
+    "children": [
+      {
+        "id": "ca1500dc9c6387ed",
+        "type": "tabs",
+        "children": [
+          {
+            "id": "2ae0e63d630589d7",
+            "type": "leaf",
+            "state": {
+              "type": "backlink",
+              "state": {
+                "file": "(2) Paper Notes/NVIDIA FLARE - Federated Learning from Simulation to Real-World.md",
+                "collapseAll": false,
+                "extraContext": false,
+                "sortOrder": "alphabetical",
+                "showSearch": false,
+                "searchQuery": "",
+                "backlinkCollapsed": false,
+                "unlinkedCollapsed": true
+              },
+              "icon": "links-coming-in",
+              "title": "Backlinks for NVIDIA FLARE - Federated Learning from Simulation to Real-World"
+            }
+          },
+          {
+            "id": "b32efd707f1db5f0",
+            "type": "leaf",
+            "state": {
+              "type": "outgoing-link",
+              "state": {
+                "file": "(2) Paper Notes/NVIDIA FLARE - Federated Learning from Simulation to Real-World.md",
+                "linksCollapsed": false,
+                "unlinkedCollapsed": true
+              },
+              "icon": "links-going-out",
+              "title": "Outgoing links from NVIDIA FLARE - Federated Learning from Simulation to Real-World"
+            }
+          },
+          {
+            "id": "3f314b8ed053f384",
+            "type": "leaf",
+            "state": {
+              "type": "tag",
+              "state": {
+                "sortOrder": "frequency",
+                "useHierarchy": true,
+                "showSearch": false,
+                "searchQuery": ""
+              },
+              "icon": "lucide-tags",
+              "title": "Tags"
+            }
+          },
+          {
+            "id": "c233a606fef76a16",
+            "type": "leaf",
+            "state": {
+              "type": "outline",
+              "state": {
+                "file": "(2) Paper Notes/NVIDIA FLARE - Federated Learning from Simulation to Real-World.md",
+                "followCursor": false,
+                "showSearch": false,
+                "searchQuery": ""
+              },
+              "icon": "lucide-list",
+              "title": "Outline of NVIDIA FLARE - Federated Learning from Simulation to Real-World"
+            }
+          }
+        ]
+      }
+    ],
+    "direction": "horizontal",
+    "width": 300,
+    "collapsed": true
+  },
+  "left-ribbon": {
+    "hiddenItems": {
+      "switcher:Open quick switcher": false,
+      "graph:Open graph view": false,
+      "canvas:Create new canvas": false,
+      "daily-notes:Open today's daily note": false,
+      "templates:Insert template": false,
+      "command-palette:Open command palette": false,
+      "bases:Create new base": false,
+      "templater-obsidian:Templater": false
+    }
+  },
+  "active": "cb6a58d9feb6f0b6",
+  "lastOpenFiles": [
+    "(1) Concepts/NVIDIA FLARE.md",
+    "(2) Paper Notes/NVIDIA FLARE - Federated Learning from Simulation to Real-World.md",
+    "(1) Concepts/Federated Learning.md",
+    "(0) Templates/template_paper_note.md",
+    "(1) Concepts",
+    "`=.md",
+    "(0) Templates",
+    "Untitled.md",
+    "(0) Assets",
+    "Welcome.md",
+    "(2) Paper Notes"
+  ]
+}
