@@ -41,3 +41,18 @@ Looking for recent (2025) papers with cancer subtyping, open source, deep learni
 
 ### [6] [Federated Deep Learning Enables Cancer Subtyping by Proteomics](https://pubmed.ncbi.nlm.nih.gov/40488620/)
 
+
+### [7] [Advancing breast, lung and prostate cancer research with federated learning. A systematic review](https://www.nature.com/articles/s41746-025-01591-5)
+
+- **Topics:**
+- **Summary:**
+
+### [8] [Collaborative assessment of the risk of postoperative progression in early-stage non-small cell lung cancer: a robust federated learning model](https://cancerimagingjournal.biomedcentral.com/articles/10.1186/s40644-025-00911-y)
+
+- **Topics:**
+- **Summary:** 
+
+### [9] [A Personalized Multimodal Federated Learning Framework for Skin Cancer Diagnosis](https://www.mdpi.com/2079-9292/14/14/2880)
+
+- **Topics:**
+- **Summary:** 
