@@ -18,4 +18,8 @@ Looking for recent (2025) papers with cancer subtyping, open source, deep learni
 - **Summary:** TODO: Finish! But for now... It has a really good breakdown of different multi-modal breast cancer datasets. Might be good for federated learning, but need to make sure subtype labels exist first (if not, clustering?)
 
 ### 2. [Subtype-GAN: a deep learning approach for integrative cancer subtyping of multi-omics data](https://academic.oup.com/bioinformatics/article/37/16/2231/6143031)
--**Summary**: TODO: Whenever I read it... I will tell you - Tera
+- **Summary**: TODO: Whenever I read it... I will tell you - Tera
+
+### 3. [DeePathNet: A Transformer-Based Deep Learning Model Integrating Multiomic Data with Cancer Pathways](https://pubmed.ncbi.nlm.nih.gov/39530738/)
+- Tera is on fire...
+
