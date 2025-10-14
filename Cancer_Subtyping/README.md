@@ -31,8 +31,15 @@ Looking for recent (2025) papers with cancer subtyping, open source, deep learni
   - I also had a thought that although we may not use Subtype-GAN maybe we can steal the ideas and apply it to Andrew's knowledge graph.
   - - Add an unsupervised layer (AGAIN DO NOT KNOW ANYTHING ABOUT UNSUPERVISED LEARNING BUT WILLING TO LEARN)... Again do not know if necessary. 
 
-### [3] [DeePathNet: A Transformer-Based Deep Learning Model Integrating Multiomic Data with Cancer Pathways](https://pubmed.ncbi.nlm.nih.gov/39530738/)
-- Tera is on fire...
+#### [3] [DeePathNet: A Transformer-Based Deep Learning Model Integrating Multiomic Data with Cancer Pathways]([https://pubmed.ncbi.nlm.nih.gov/39530738/](https://aacrjournals.org/cancerrescommun/article/4/12/3151/750577/DeePathNet-A-Transformer-Based-Deep-Learning-Model))
+- **Topics**
+- **Summary**
+  - Datasets used: ProCan-DepMapSanger, Cancer Cell Line Encyclopedia, TCGA
+  - DeePathNet is a transformer-based model that integrates multi-imic data such as genomic mutation, copy number variation (CNV), gene expression, /dNA methylation, protein intensity, and CRISPR-Cas9 data, among others, with cancer-specific biological pathways. The goal is to boost performance in drug response prediction, cancer type/ subtype classification, and pathway level biomarker discovery.
+  - Github:  https://github.com/CMRI-ProCan/DeePathNet
+- **My thoughts**
+  - They utilize some datasets I have never heard of. Even if this is not a good example, it is filled with some great resources
+  - So all of my thoughts typically go to knowlege graphs now. I was thinking this transformer model is utilized over 2D data... But what if we put this model over a knowledge graph. Could we make that happen?
 
 ### [4] [Biological Knowledge Graph-Enhanced Cancer State Prediction Network with Adjustable Connections](https://academic.oup.com/bioinformatics/article/39/9/btad570/7273783)
 - Sooo I am sorta excited about this one
@@ -58,6 +65,7 @@ Looking for recent (2025) papers with cancer subtyping, open source, deep learni
 
 - **Topics:** Survey, Cancer (Skin), Federated Learning (FL)
 - **Summary:** FL strategy and model that is both multi-task and accounts for missing modalities during prediction. Detailed about FL strategy and related works (including datasets, task, and input types of those works)
+
 
 
 
