@@ -49,12 +49,15 @@ Looking for recent (2025) papers with cancer subtyping, open source, deep learni
 
 ### [8] [Collaborative assessment of the risk of postoperative progression in early-stage non-small cell lung cancer: a robust federated learning model](https://cancerimagingjournal.biomedcentral.com/articles/10.1186/s40644-025-00911-y)
 
-- **Topics:**
-- **Summary:** 
+- **Topics:** Cancer (Lung), Federated Learning (FL)
+- **Summary:** Proposes a FL Bayesian classifier to detect post-operative progression of early-stage Non-Small Cell Lung Cancer (NSCLC). FL was used for feature extraction of CT images, where the classifier then took those features as inputs to predict LCP (lung cancer progression) or LCNP (lung cancer, no progression). Verbose in their methods about their FL strategy and data.
+- **Notes:** 
+> Among existing FL approaches, personalized FL [11] is particularly suitable for medical scenarios, allowing each center to choose between the aggregated global model and local models based on their needs
 
 ### [9] [A Personalized Multimodal Federated Learning Framework for Skin Cancer Diagnosis](https://www.mdpi.com/2079-9292/14/14/2880)
 
 - **Topics:**
 - **Summary:** 
+
 
 
