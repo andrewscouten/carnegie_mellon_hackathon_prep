@@ -24,6 +24,8 @@ Looking for recent (2025) papers with cancer subtyping, open source, deep learni
 - Tera is on fire...
 
 ### 4. [Biological Knowledge Graph-Enhanced Cancer State Prediction Network with Adjustable Connections](https://academic.oup.com/bioinformatics/article/39/9/btad570/7273783)
-- Sooo I am sorta excited about this one 
+- Sooo I am sorta excited about this one
+  
+### 5. [Breast Cancer Classification with Various Optimized Deep Learning Methods](https://pmc.ncbi.nlm.nih.gov/articles/PMC12293705/#sec1-diagnostics-15-01751)
 
-
+### 6. [Federated Deep Learning Enables Cancer Subtyping by Proteomics](https://pubmed.ncbi.nlm.nih.gov/40488620/)
